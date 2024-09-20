@@ -1,4 +1,4 @@
-# Deploy AWS Elastic Container Service (ECS) using GitHub Actions and Terraform 
+# Deploy AWS Elastic Container Service (ECS) using Terraform and GitHub Actions
 
 ## 1. Installation Process
 
