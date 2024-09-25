@@ -4,7 +4,7 @@ terraform {
   backend "s3" {
     region  = <your_region>
     profile = "default"
-    key     = "terraformstatefile"
+    key     = "terraform.tfstate"
     bucket  = <your_bucket_name>
   }
 }
